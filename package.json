@@ -1,0 +1,27 @@
+{
+  "name": "tpm2-net-node",
+  "version": "0.0.1",
+  "description": "tpm2.net LED Matrix Sender",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Andreas Hoelldorfer"
+  },
+  "license": "MIT",
+
+  "_location": "/tpm2-net-node",
+  "_phantomChildren": {},
+  "_requiredBy": [
+    "/node-red-contrib-tpm2-net"
+  ],
+  "repository" : {
+    "type":"git",
+    "url":"https://github.com/4ndreas/tpm2-net-node"
+  },
+
+  "engines": {
+    "node": ">=0.6"
+  },
+  "main": "./main.js"
+}
